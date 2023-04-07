@@ -1,0 +1,429 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.first{
+    margin-left:100px ;
+    margin-top:15px ;
+    width:130px ;
+}
+.second{
+    display:flex;
+    margin-left:100px ;
+    margin-top:80px ;  
+}
+.three{
+   font-size: 20px; 
+}
+h1{
+    font-size:80px ;
+    font-family: 'Roboto', sans-serif; 
+    margin-left: 100px;
+    margin-top:20px ;
+    width:700px ;
+}
+.four{
+   font-size: 20px; 
+   font-family: 'Roboto', sans-serif; 
+   margin-left:100px ;
+}
+.five{
+    font-size: 25px;
+    font-family:'Roboto', sans-serif; 
+    background-color:  #1E4681;
+    color:white ; 
+    padding:20px 20px 50px ;
+    border-radius:5px;
+    width:450px ;
+    margin-top:65px ;
+    margin-bottom:75px ;
+ 
+    
+}
+.six{
+    display: flex;
+}
+h2{
+    font-size:55px ;
+    margin-left: 100px;
+    font-family: 'Roboto', sans-serif; 
+    margin-bottom:55px ;
+}
+.eight{
+    width:600px ;
+    margin-left: 100px;
+    font-size:24px ;
+}
+.nine{
+    display: flex;
+    
+}
+.ten{
+    margin-left: 200px;
+    margin-top:75px ;
+}
+.eleven{
+    width:600px ;
+    margin-left: 100px;
+    font-size:24px ;
+    margin-top:45px ;
+}
+.book{
+    display: flex;
+    width:150px ;
+}
+.note{
+    margin-left:100px ;
+    display: flex;
+    width:70% ;
+    justify-content:space-between ;
+  margin-top:65px ; 
+  margin-bottom:100px ; 
+}
+.num{
+    font-size:25px;
+}
+.count{
+    font-size:18px ;
+}
+h3{
+    font-size:55px ;
+    font-family:'Roboto', sans-serif; 
+    margin-left:100px ;
+}
+.format{
+    display: flex;
+    width:60% ;
+    justify-content: space-between;
+    margin-top:80px ;
+    margin-left:100px ;
+}
+.friend{
+    color: #1E4681;
+    font-family: 'Roboto', sans-serif; 
+    margin-bottom:15px ;
+    font-size:25px ;
+}
+.size{
+    font-size: 18px;
+    margin-bottom:100px ;
+}
+.what{
+    font-size:55px ;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 100px;
+}
+.camp{
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif; 
+    margin-left: 100px;
+    margin-top:50px ;
+}
+h5{
+    font-size:55px ;
+    font-family: 'Roboto', sans-serif; 
+    margin-left: 100px;
+    margin-top:100px ;
+}
+.medal{
+    display:flex ;
+    flex-wrap: wrap;
+    margin-left:100px ;
+    margin-top:90px ;
+}
+.film{
+    font-size:30px ;
+    padding-top:10px ;
+}
+.clock{
+    font-size: 25px;
+    padding-top:15px ;
+    padding-bottom:15px ;
+}
+.ball{
+    border-radius:15px ;
+    margin-right:50px ;
+    box-shadow: 1px 1px 15px 
+    rgba(0, 0, 0, 0.25);
+    margin-bottom:40px ;
+}
+.ball1{
+    margin-left:20px ;
+    background-color: #ffffff;
+}
+.pen{
+    border-radius:15px ;
+    margin-right: 50px;
+    box-shadow: 1px 1px 15px 
+    rgba(0, 0, 0, 0.25);
+    margin-bottom:40px ;
+}
+.ball2{
+    margin-left:20px ;
+    background-color: #ffffff;
+}
+.dram{
+    font-size:30px ;
+    padding-top:10px ;
+}
+.clock2{
+    font-size: 25px;
+    padding-top:15px ;
+    padding-bottom:15px ;
+}
+.kadr{
+    border-radius:15px ;
+    margin-right: 50px;
+    box-shadow: 1px 1px 15px
+    rgba(0, 0, 0, 0.25);
+    margin-bottom:40px ;
+}
+.ball3{
+    margin-left:20px ;
+    background-color: #ffffff;
+}
+.rejissor{
+    font-size:30px ;
+    padding-top:10px ;
+}
+.clock3{
+    font-size: 25px;
+    padding-top:15px ;
+    padding-bottom:15px ;
+}
+.lent{
+    border-radius:15px ;
+    margin-right: 50px;
+    box-shadow: 1px 1px 15px 
+    rgba(0, 0, 0, 0.25);
+    margin-bottom:40px ;
+}
+.ball4{
+    margin-left:20px ;
+    background-color: #ffffff;
+}
+.montaj{
+    font-size:30px ;
+    padding-top:10px ;
+}
+.clock4{
+    font-size: 25px;
+    padding-top:15px ;
+    padding-bottom:15px ;
+}
+.maska{
+    border-radius:15px ;
+    margin-right: 50px;
+    box-shadow: 1px 1px 15px 
+    rgba(0, 0, 0, 0.25);
+    margin-bottom:40px ;
+}
+.ball5{
+    margin-left:20px ;
+    background-color: #ffffff;
+}
+.janr{
+    font-size:30px ;
+    padding-top:10px ; 
+}
+.clock5{
+    font-size: 25px;
+    padding-top:15px ;
+    padding-bottom:15px ;
+}
+.lang{
+    border-radius:15px ;
+    margin-right: 50px;
+    box-shadow: 1px 1px 15px 
+    rgba(0, 0, 0, 0.25);
+    margin-bottom:40px ;
+}
+.ball6{
+    margin-left:20px ;
+    background-color: #ffffff;
+}
+.clock6{
+    font-size: 25px;
+    padding-top:15px ;
+    padding-bottom:15px ;
+}
+.seminar{
+    font-size:30px ;
+    padding-top:10px ; 
+}
+.star{
+    border-radius:15px ;
+    margin-right: 50px;
+    box-shadow: 1px 1px 15px 
+    rgba(0, 0, 0, 0.25);
+    margin-bottom:40px ;
+}
+.clock7{
+    font-size: 25px;
+    padding-top:15px ;
+    padding-bottom:15px ;
+}
+.ball7{
+    margin-left:20px ;
+    background-color: #ffffff;
+}
+.sunbul{
+    font-size:30px ;
+    padding-top:10px ;
+}
+.durbin{
+    border-radius:15px ;
+    margin-right: 50px;
+    box-shadow: 1px 1px 15px 
+    rgba(0, 0, 0, 0.25);
+    margin-bottom:40px ;
+}
+.clock8{
+    font-size: 25px;
+    padding-top:15px ;
+    padding-bottom:15px ;
+}
+.ball8{
+    margin-left:20px ;
+    background-color: #ffffff;
+}
+.glass{
+    font-size:30px ;
+    padding-top:10px ;
+}
+
+
+
+.five-div{
+    width: 62%;
+    margin: 0 auto;
+}
+h6{
+    font-size:55px ;
+    font-family:'Roboto', sans-serif ;
+    margin-left:70px ;
+    padding-top:60px ;
+}
+.goal{
+   background-color: #efefef;
+    margin-left: 100px;
+    height:700px ;
+}
+.foot{
+    background-color:#FFFFFF ;
+    width: 56%;
+    margin-top:50px ;
+    margin-left:100px ;
+    border-radius:30px ;
+    padding-bottom:40px ;
+}
+.subway{
+    font-family:'Roboto', sans-serif  ;
+    font-size:20px ;
+    padding-left:35px ;
+    padding-top:30px ;  
+}
+.train{
+    font-size:30px ;
+    font-family:'Roboto', sans-serif ;
+    /* margin-left:250px ;   */
+    color: black;
+    margin-bottom: 20px;
+}
+
+.ekaterina{
+    display: flex;
+    align-items: center;
+}
+.font{
+    margin-left: 30px;
+}
+.cours{
+    background-color: #9DC9C8;
+    
+    margin-left: 100px;
+    height:700px ;
+}
+h4{
+font-size:55px ;
+font-family:'Roboto', sans-serif ;
+
+}
+.seen1{
+    font-size:25px ;
+    font-family:'Roboto', sans-serif ;
+    margin-top:54px ;
+    font-size: 25px;
+
+}
+.money{
+font-size:80px ;
+
+}
+
+.seen{
+    font-size:25px ;
+    font-family:'Roboto', sans-serif ;
+}
+.then{
+    font-size:18px ;
+    font-family:'Roboto', sans-serif ;
+    margin-top:10px ;
+}
+.uni{
+    display: flex;
+    justify-content:space-between ;
+    width: 53%;
+    margin-top:60px ;
+
+}
+.selim{
+    padding-left:122px ;
+    padding-top:179px ;
+}
+
+.finish{
+    background-color: black;
+    margin-left: 100px;
+    height: 320px;
+}
+.sosial{
+    display: flex;
+    margin-top:20px ;
+     
+}
+.alfa{
+    display: flex;
+    justify-content: space-between;
+    padding-top:45px ;
+}
+.intres{
+    margin-left:100px ;
+}
+.send{
+    color: #FFFFFF;
+    font-size:18px ;
+}
+.put{
+    color: #FFFFFF;
+    font-size:25px ;
+    margin-left:20px ;
+    margin-left:20px ;
+}
+.beta{
+    padding-right:100px ;
+}
+.qamma{
+    display: flex;
+   
+}
+.old{
+    display: flex;
+    margin-top:15px ;
+    
+}
+.send{
+    margin-left:100px ;
+    margin-top:100px ;
+}
